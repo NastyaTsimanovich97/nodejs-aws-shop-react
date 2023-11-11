@@ -1,3 +1,15 @@
+# CDK
+Links:
+
+- [CloudFront URL](https://d10pa0t5z0ktgc.cloudfront.net/)
+- [S3-website](http://tsimanovich-task-2.s3-website-eu-west-1.amazonaws.com/)
+
+# Script for build and deploy
+### `hosting:task2`
+
+Builds and deploys project to Clound Front (from main FE folder package.json)
+
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
